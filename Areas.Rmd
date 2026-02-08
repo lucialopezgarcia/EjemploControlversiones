@@ -1,0 +1,8 @@
+---
+title: "Áreas"
+output: html_document
+---
+```{r}
+radio <- 5
+area_circulo <- pi * radio^2
+area_circulo
